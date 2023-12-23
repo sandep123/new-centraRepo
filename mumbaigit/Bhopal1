@@ -1,9 +1,1 @@
-def swap_elements(arr, index1, index2):
-    # Check if the indices are valid
-    if 0 <= index1 < len(arr) and 0 <= index2 < len(arr):
-        # Swap elements using a temporary variable
-        temp = arr[index1]
-        arr[index1] = arr[index2]
-        arr[index2] = temp
-    else:
-        print("Invalid indices")
+i have done some midification
